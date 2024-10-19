@@ -42,7 +42,7 @@ In my free time, you can find me playing basketball, jazz piano, or walking arou
 
 # Awards
 
-* NSERC PGS-D Scholarship (2024-2027)
+* NSERC Doctoral Scholarship (2024-2027)
 * FRQNT Doctoral Scholarship (2024-2028)
 * Ontario Graduate Scholarship (2021, 2022)
 * President's Graduate Scholarship, University of Waterloo  (2021, 2022)
