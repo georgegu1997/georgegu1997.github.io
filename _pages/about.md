@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qiao Gu"
+title: "Luke Rowe"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Robot Vision & Learning (RVL) Lab](https://rvl.cs.toronto.edu/) at the University of Toronto, advised by Prof. [Florian Shkurti](http://www.cs.toronto.edu/~florian/). 
-My research interest lies in 3D computer vision and robotics. I am especially excited by robot perception and action algorithms that can generalize and adapt to novel environments. 
-Now I am enthusiastically exploring open-world 3D scene understanding algorithms that can leverage the power of 2D foundation models. 
+I am a Ph.D. student in the [Robotics and Embodied AI Lab (REAL) Lab](https://montrealrobotics.ca) at Mila / Université de Montréal, advised by Prof. [Liam Paull](https://liampaull.ca) and Prof. [Chris Pal](https://sites.google.com/view/christopher-pal). 
+My research interests lie at the intersection of artificial intelligence and autonomous vehicles, with a particular emphasis on data-driven simulation, edge-case generation, and end-to-end autonomy. I believe that simulation will play an increasingly vital role in scaling Level 4+ autonomous vehicles, and am particularly excited about the role that generative models can play in make driving simulators more realistic and controllable.
 
-During my Ph.D., I did an internship at [Meta Reality Labs](https://about.meta.com/realitylabs/) on egocentric 3D perception, working closely with [Zhaoyang Lv](https://lvzhaoyang.github.io/) and [Chris Sweeney](https://scholar.google.com/citations?user=h-CpQGgAAAAJ&hl=en). 
+During my Ph.D., I did an internship at [Torc Robotics](https://torc.ai) on generative models for data-driven simulation, working closely with [Roger Girgis](https://www.linkedin.com/in/roger-girgis-a46b959b/?originalSubdomain=ca) and [Felix Heide](https://www.cs.princeton.edu/~fheide/). 
 
 
-Prior to this, I obtained an M.S. in Robotics from Carnegie Mellon University, where I was fortunate to work with Prof. [David Held](https://davheld.github.io/) and Prof. [Martial Hebert](http://www.cs.cmu.edu/~hebert/). I received my Bachelor's degree from the Hong Kong University of Science and Technology, where I have been lucky to work with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/bio-sketch-review.htm) and Prof. [Yu-Wing Tai](https://www.cse.ust.hk/admin/people/faculty/profile/yuwing). I also had an internship at [Tencent Youtu Lab](https://open.youtu.qq.com/#/open). 
+<!-- Prior to this, I obtained an M.S. in Robotics from Carnegie Mellon University, where I was fortunate to work with Prof. [David Held](https://davheld.github.io/) and Prof. [Martial Hebert](http://www.cs.cmu.edu/~hebert/). I received my Bachelor's degree from the Hong Kong University of Science and Technology, where I have been lucky to work with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/bio-sketch-review.htm) and Prof. [Yu-Wing Tai](https://www.cse.ust.hk/admin/people/faculty/profile/yuwing). I also had an internship at [Tencent Youtu Lab](https://open.youtu.qq.com/#/open).  -->
 
 
 
