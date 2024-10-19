@@ -16,6 +16,8 @@ During my Ph.D., I did an internship at [Torc Robotics](https://torc.ai) on gene
 
 Prior to this, I obtained an Master's in Computer Science from the University of Waterloo, where I worked with Prof. [Krzysztof Czarnecki](https://uwaterloo.ca/electrical-computer-engineering/profile/k2czarne) on joint motion prediction for autonomous vehicles. I received my Bachelor's degree from the University of Victoria, where I worked with Prof. [George Tzanetakis](http://webhome.csc.uvic.ca/~gtzan/index.html) on machine learning for music.
 
+In my free time, you can find me playing basketball, piano, or walking around Montréal to find new places to eat.
+
 # Selected Publications 
 
 {% include base_path %}
