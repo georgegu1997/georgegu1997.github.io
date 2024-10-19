@@ -9,14 +9,12 @@ redirect_from:
 ---
 
 I am a Ph.D. student in the [Robotics and Embodied AI Lab (REAL) Lab](https://montrealrobotics.ca) at Mila / Université de Montréal, advised by Prof. [Liam Paull](https://liampaull.ca) and Prof. [Chris Pal](https://sites.google.com/view/christopher-pal). 
-My research interests lie at the intersection of artificial intelligence and autonomous vehicles, with a particular emphasis on data-driven simulation, edge-case generation, and end-to-end autonomy. I believe that simulation will play an increasingly vital role in scaling Level 4+ autonomous vehicles, and am particularly excited about the role that generative models can play in make driving simulators more realistic and controllable.
+My research interests lie at the intersection of machine learning and autonomous vehicles, with a particular emphasis on data-driven simulation, edge-case generation, and end-to-end autonomy. I am particularly excited about the role that simulation can play in scaling Level 4+ autonomous vehicles and how generative models can improve the realism and controllability of driving simulators.
 
 During my Ph.D., I did an internship at [Torc Robotics](https://torc.ai) on generative models for data-driven simulation, working closely with [Roger Girgis](https://www.linkedin.com/in/roger-girgis-a46b959b/?originalSubdomain=ca) and [Felix Heide](https://www.cs.princeton.edu/~fheide/). 
 
 
-<!-- Prior to this, I obtained an M.S. in Robotics from Carnegie Mellon University, where I was fortunate to work with Prof. [David Held](https://davheld.github.io/) and Prof. [Martial Hebert](http://www.cs.cmu.edu/~hebert/). I received my Bachelor's degree from the Hong Kong University of Science and Technology, where I have been lucky to work with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/bio-sketch-review.htm) and Prof. [Yu-Wing Tai](https://www.cse.ust.hk/admin/people/faculty/profile/yuwing). I also had an internship at [Tencent Youtu Lab](https://open.youtu.qq.com/#/open).  -->
-
-
+Prior to this, I obtained an Master's in Computer Science from the University of Waterloo, where I worked with Prof. [Krzysztof Czarnecki](https://uwaterloo.ca/electrical-computer-engineering/profile/k2czarne) on joint motion prediction for autonomous vehicles. I received my Bachelor's degree from the University of Victoria, where I worked with Prof. [George Tzanetakis](http://webhome.csc.uvic.ca/~gtzan/index.html) on machine learning for music.
 
 # Selected Publications 
 
@@ -36,13 +34,9 @@ During my Ph.D., I did an internship at [Torc Robotics](https://torc.ai) on gene
 
 # Teaching
 
-* Teaching Assistant for CSC384 - Intro to Artificial Intelligence, Fall 2022 at UofT
-* Teaching Assistant for CSC384 - Intro to Artificial Intelligence, Winter 2022 at UofT
-* Teaching Assistant for CSC110 - Foundations of Computer Science I, Fall 2021 at UofT
-
-# Reviewer
-
-* RA-L, ICML 2023, CVPR 2023, ICLR 2023, WACV 2023, ICCV 2023, CVPR 2022, ICLR 2022, WACV 2022, IROS 2022, NeurIPS 2022, ICCV 2021, ICRA 2021 and ECCV 2020
+* Teaching Assistant for CS 360 - Theory of Computing, Winter 2022, Spring 2022, Fall 2022, Winter 2023, Spring 2023 at University of Waterloo
+* Teaching Assistant for CS 135 - Designing Functional Programs, Fall 2021 at University of Waterloo
+* Teaching Assistant for CSC 320 - Foundations of Computer Science, Fall 2019 at University of Victoria
 
 # Awards
 
