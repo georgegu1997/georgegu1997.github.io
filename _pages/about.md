@@ -42,12 +42,8 @@ In my free time, you can find me playing basketball, piano, or walking around Mo
 
 # Awards
 
-* Ontario Graduate Scholarship (2022-2023)
-* Acres Productive Technologies Inc./Joseph Yonan Memorial Fellowship (2023)
-* HKUST Academic Achievement Medal (2019)
-* HKSAR Government Scholarships (2017-2019)
-* High Fashion Charitable Foundation Exchange Scholarships (2018)
-* Mr. Armin and Mrs. Lillian Kitchell Undergraduate Research Award (2018)
-* HKSAR Government Scholarship Fund - Reaching Out Award (2017)
-* HKSAR Government Scholarship Fund - Talent Development Scholarship (2017)
-* Dean's List (2015-2019)
+* NSERC PGS-D Scholarship (2024-2027)
+* FRQNT Doctoral Scholarship (2024-2028)
+* Ontario Graduate Scholarship (2021, 2022)
+* President's Graduate Scholarship, University of Waterloo  (2021, 2022)
+* NSERC USRA (Summer 2020)
