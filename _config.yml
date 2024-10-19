@@ -7,14 +7,14 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Qiao Gu's Homepage"
+title                    : "Luke Rowe's Homepage"
 title_separator          : "-"
-name                     : &name "Qiao Gu"
-description              : &description "Qiao Gu, Ph.D. in Computer Science at University of Toronto"
-url                      : https://georgegu1997.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Luke Rowe"
+description              : &description "Luke Rowe, Ph.D. in Computer Science at Mila / Université de Montréal"
+url                      : https://rluke22.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url                      : "http://localhost:4000/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "georgegu1997/georgegu1997.github.io"
+repository               : "RLuke22/rluke22.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -58,7 +58,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter qiaogu1997
+  username               : &twitter Luke22R
 facebook:
   username               :
   app_id                 :
@@ -81,14 +81,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Qiao Gu"
+  name             : "Luke Rowe"
   avatar           : "photo_crop.jpeg"
-  bio              : "Ph.D. Student in Computer Science at University of Toronto"
-  location         : "Toronto, ON, Canada"
+  bio              : "Ph.D. Student in Computer Science at Mila / Université de Montréal"
+  location         : "Montréal, QC, Canada"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=MF7ISVAAAAAJ&hl=en"
-  email            : "q.gu@mail.utoronto.ca"
+  googlescholar    : "https://scholar.google.ca/citations?user=J-CXTg8AAAAJ&hl=en&oi=ao"
+  email            : "luke.rowe@mila.quebec"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "georgegu1997"
+  github           : "RLuke22"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/qiao-gu/"
+  linkedin         : "https://www.linkedin.com/in/rluke22/"
   orcid            : 
   pinterest        :
   soundcloud       :
