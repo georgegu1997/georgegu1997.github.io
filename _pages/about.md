@@ -14,7 +14,7 @@ My research interests lie at the intersection of machine learning and autonomous
 During my Ph.D., I have done an internship at [Torc Robotics](https://torc.ai) on generative models for data-driven simulation, working closely with [Roger Girgis](https://www.linkedin.com/in/roger-girgis-a46b959b/?originalSubdomain=ca) and [Felix Heide](https://www.cs.princeton.edu/~fheide/). 
 
 
-Prior to this, I obtained an Master's in Computer Science from the University of Waterloo, where I worked with Prof. [Krzysztof Czarnecki](https://uwaterloo.ca/electrical-computer-engineering/profile/k2czarne) on joint motion prediction for autonomous vehicles. I received my Bachelor's degree from the University of Victoria, where I worked with Prof. [George Tzanetakis](http://webhome.csc.uvic.ca/~gtzan/index.html) on machine learning for music.
+Prior to this, I obtained an Master's in Computer Science from the University of Waterloo, where I worked with Prof. [Krzysztof Czarnecki](https://uwaterloo.ca/electrical-computer-engineering/profile/k2czarne) on joint motion prediction for autonomous vehicles. I received my Bachelor's degree in Computer Science and Mathematics from the University of Victoria, where I worked with Prof. [George Tzanetakis](http://webhome.csc.uvic.ca/~gtzan/index.html) on machine learning for music.
 
 In my free time, you can find me playing basketball, piano, or walking around Montréal to find new vegan/vegetarian places to eat.
 
