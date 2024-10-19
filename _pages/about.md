@@ -8,15 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. student in the [Robotics and Embodied AI Lab (REAL) Lab](https://montrealrobotics.ca) at Mila / Université de Montréal, advised by Prof. [Liam Paull](https://liampaull.ca) and Prof. [Chris Pal](https://sites.google.com/view/christopher-pal). 
-My research interests lie at the intersection of machine learning and autonomous vehicles, with a particular emphasis on data-driven simulation, edge-case generation, and end-to-end autonomy. I am particularly excited about the role that simulation can play in scaling Level 4+ autonomous vehicles and how generative models can improve the realism and controllability of driving simulators.
+I am a second-year Ph.D. student in the [Robotics and Embodied AI Lab (REAL) Lab](https://montrealrobotics.ca) at Mila / Université de Montréal, advised by Prof. [Liam Paull](https://liampaull.ca) and Prof. [Chris Pal](https://sites.google.com/view/christopher-pal). 
+My research interests lie at the intersection of machine learning and autonomous driving, with a particular emphasis on data-driven simulation, edge-case generation, and end-to-end autonomy. I am particularly excited about the role that simulation can play in scaling Level 4+ autonomous vehicles and how generative models can improve the realism and controllability of driving simulators.
 
 During my Ph.D., I have completed an internship at [Torc Robotics](https://torc.ai) on generative models for data-driven simulation, working closely with [Roger Girgis](https://www.linkedin.com/in/roger-girgis-a46b959b/?originalSubdomain=ca) and [Felix Heide](https://www.cs.princeton.edu/~fheide/). 
 
 
-Prior to this, I obtained an Master's in Computer Science from the University of Waterloo, where I worked with Prof. [Krzysztof Czarnecki](https://uwaterloo.ca/electrical-computer-engineering/profile/k2czarne) on joint motion prediction for autonomous vehicles. I received my Bachelor's degree in Computer Science and Mathematics from the University of Victoria, where I worked with Prof. [George Tzanetakis](http://webhome.csc.uvic.ca/~gtzan/index.html) on machine learning for music.
+Prior to this, I obtained an Master's degree in Computer Science from the University of Waterloo, where I worked with Prof. [Krzysztof Czarnecki](https://uwaterloo.ca/electrical-computer-engineering/profile/k2czarne) on joint motion prediction for autonomous driving. I received my Bachelor's degree in Computer Science and Mathematics from the University of Victoria, where I worked with Prof. [George Tzanetakis](http://webhome.csc.uvic.ca/~gtzan/index.html) on machine learning for music.
 
-In my free time, you can find me playing basketball, piano, or walking around Montréal to find new vegan/vegetarian places to eat.
+In my free time, you can find me playing basketball, jazz piano, or walking around Montréal to find new vegan/vegetarian places to eat.
 
 # Selected Publications 
 
