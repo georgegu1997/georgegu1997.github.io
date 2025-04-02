@@ -6,7 +6,7 @@ excerpt: ''
 date: 2025-03-28
 venue: 'Computer Vision and Pattern Recognition (CVPR), 2025'
 paperurl: 'https://arxiv.org/abs/2503.22496'
-imgurl: 'scenariodreamer_500x300.gif'
+imgurl: 'scenario_dreamer_500x300.gif'
 show: true
 authors:
   - name: Luke Rowe
