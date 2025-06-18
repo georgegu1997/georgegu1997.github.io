@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2025-06-poutine
 excerpt: ''
 date: 2025-06-12
-venue: 'Workshop on Autonomous Driving @ CVPR 2025. Winner of the 2025 Vision-based End-to-End Driving Challenge'
+venue: 'WAD @ CVPR 2025. Winner of the 2025 Waymo Vision-based End-to-End Driving Challenge'
 paperurl: 'https://arxiv.org/abs/2506.11234'
-imgurl: 'poutine_500x300.gif'
+imgurl: 'poutine_website.gif'
 show: true
 authors:
   - name: Luke Rowe
