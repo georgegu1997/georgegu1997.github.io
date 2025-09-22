@@ -12,16 +12,14 @@ I am a Ph.D. student in the [Robot Vision & Learning (RVL) Lab](https://rvl.cs.t
 My research focuses on 3D computer vision and robotics, particularly on developing robot perception and action algorithms that generalize to and adapt in novel environments. 
 <!-- Currently, I am exploring open-world 3D scene understanding algorithms that leverage the power of 2D foundation models. -->
 
+I'm currently doing a research internship at Meta Reality Labs, where I am working on video generation models, mentored by [Julian Straub](https://jstraub.github.io/). 
+
 During my Ph.D., I completed a research internship at [Meta Reality Labs](https://about.meta.com/realitylabs/) focusing on egocentric 3D perception, working closely with [Zhaoyang Lv](https://lvzhaoyang.github.io/) and [Chris Sweeney](https://scholar.google.com/citations?user=h-CpQGgAAAAJ&hl=en). 
-
-**<span style="color:red;">NEW</span>:** I'm going back to Meta Reality Labs for another research internship in Summer/Fall 2025, where I will be working with [Julian Straub](https://jstraub.github.io/)!
-
 
 I earned my Master's degree in Robotics from Carnegie Mellon University, advised by Prof. [David Held](https://davheld.github.io/) and Prof. [Martial Hebert](http://www.cs.cmu.edu/~hebert/). Before that, I received my Bachelor's degree from the Hong Kong University of Science and Technology, where I was lucky to work with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/bio-sketch-review.htm) and Prof. [Yu-Wing Tai](https://www.cse.ust.hk/admin/people/faculty/profile/yuwing). I also had an internship at [Tencent Youtu Lab](https://open.youtu.qq.com/#/open). 
 
 
-
-# Selected Publications 
+# Selected Publications
 
 {% include base_path %}
 
