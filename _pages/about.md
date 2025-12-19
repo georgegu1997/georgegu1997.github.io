@@ -7,17 +7,17 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I am a final-year Ph.D. student in the [Robot Vision & Learning (RVL) Lab](https://rvl.cs.toronto.edu/) at the University of Toronto, advised by Prof. [Florian Shkurti](http://www.cs.toronto.edu/~florian/).
+My research focuses on 3D computer vision, generative models, and robotics.
 
-I am a final-year Ph.D. student in the [Robot Vision & Learning (RVL) Lab](https://rvl.cs.toronto.edu/) at the University of Toronto, advised by Prof. [Florian Shkurti](http://www.cs.toronto.edu/~florian/). 
-My research focuses on 3D computer vision and robotics, particularly on developing robot perception and action algorithms that generalize to and adapt in novel environments. 
-<!-- Currently, I am exploring open-world 3D scene understanding algorithms that leverage the power of 2D foundation models. -->
+I am currently a research intern at [Meta Reality Labs](https://about.meta.com/realitylabs/), where I work on video generation models for egocentric videos under the mentorship of [Julian Straub](https://jstraub.github.io/).
+Previously, I completed a research internship in the same group at [Meta Reality Labs](https://about.meta.com/realitylabs/), focusing on egocentric 3D perception, mentored by [Zhaoyang Lv](https://lvzhaoyang.github.io/) and [Chris Sweeney](https://scholar.google.com/citations?user=h-CpQGgAAAAJ&hl=en).
 
-I'm currently doing a research internship at [Meta Reality Labs](https://about.meta.com/realitylabs/), where I am working on video generation models for egocentric videos, mentored by [Julian Straub](https://jstraub.github.io/). 
-Before this, I completed a research internship in the same group at [Meta Reality Labs](https://about.meta.com/realitylabs/) focusing on egocentric 3D perception, mentored by [Zhaoyang Lv](https://lvzhaoyang.github.io/) and [Chris Sweeney](https://scholar.google.com/citations?user=h-CpQGgAAAAJ&hl=en). 
+<p style="color:#e57373;"><span style="font-weight:bold;">Opportunities</span>: I will be graduating and seeking full-time research positions starting in Fall 2026. Please feel free to reach out if you see a potential fit.</p>
 
-<p style="color:#e57373;"><span style="font-weight:bold;">Opportunities</span>: I am actively seeking internship opportunities for Spring/Summer 2026 and full-time research positions beginning Fall 2026. Please contact me if you see a good fit!</p>
-
-I earned my Master's degree in Robotics from Carnegie Mellon University, advised by Prof. [David Held](https://davheld.github.io/) and Prof. [Martial Hebert](http://www.cs.cmu.edu/~hebert/). Before that, I received my Bachelor's degree from the Hong Kong University of Science and Technology, where I was lucky to work with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/bio-sketch-review.htm) and Prof. [Yu-Wing Tai](https://www.cse.ust.hk/admin/people/faculty/profile/yuwing). I also had an internship at [Tencent Youtu Lab](https://open.youtu.qq.com/#/open). 
+I earned my Master’s degree in Robotics from Carnegie Mellon University, advised by Prof. [David Held](https://davheld.github.io/) and Prof. [Martial Hebert](http://www.cs.cmu.edu/~hebert/).
+Before that, I received my Bachelor’s degree from the Hong Kong University of Science and Technology, where I worked with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/bio-sketch-review.htm) and Prof. [Yu-Wing Tai](https://www.cse.ust.hk/admin/people/faculty/profile/yuwing).
+I also completed a research internship at [Tencent Youtu Lab](https://open.youtu.qq.com/#/open).
 
 # Selected Publications
 
