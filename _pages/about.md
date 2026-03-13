@@ -15,8 +15,8 @@ I am currently a research intern at <span style="color:#76B900;"><strong>NVIDIA<
 <p style="color:#e57373;"><span style="font-weight:bold;">Opportunities</span>: I will be graduating and seeking full-time research positions starting in Fall 2026. Please feel free to reach out if you see a potential fit.</p>
 
 During my PhD, I completed two research internships with the Surreal team at <span style="color:#0081FB;"><strong>Meta Reality Labs</strong></span>. 
-During the first internship, I worked on 3D Gaussian reconstruction for egocentric perception, mentored by <a href="https://lvzhaoyang.github.io/">Zhaoyang Lv</a> and <a href="https://scholar.google.com/citations?user=h-CpQGgAAAAJ&hl=en">Chris Sweeney</a>. 
-During the second internship, I worked on egocentric video generation models with 3D spatial memory and human motion control, mentored by <a href="https://jstraub.github.io/">Julian Straub</a>.
+In the first internship, I worked on 3D reconstruction and perception for egocentric videos, mentored by <a href="https://lvzhaoyang.github.io/">Zhaoyang Lv</a> and <a href="https://scholar.google.com/citations?user=h-CpQGgAAAAJ&hl=en">Chris Sweeney</a>. 
+In the second, I worked on egocentric video generation models with 3D spatial memory and human motion control, mentored by <a href="https://jstraub.github.io/">Julian Straub</a>.
 
 I earned my Master’s degree in Robotics from <span style="color:#C41230;"><strong>CMU</strong></span>, where I was advised by Prof. <a href="https://davheld.github.io/">David Held</a> and Prof. <a href="http://www.cs.cmu.edu/~hebert/">Martial Hebert</a>. 
 Before that, I received my Bachelor’s degree from <span style="color:#003366;"><strong>HKUST</strong></span>, where I worked with Prof. <a href="http://www.cs.ust.hk/~cktang/bio-sketch-review.htm">Chi-Keung Tang</a> and Prof. <a href="https://www.cse.ust.hk/admin/people/faculty/profile/yuwing">Yu-Wing Tai</a>.
