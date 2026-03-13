@@ -7,17 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year Ph.D. student in the [Robot Vision & Learning (RVL) Lab](https://rvl.cs.toronto.edu/) at the University of Toronto, advised by Prof. [Florian Shkurti](http://www.cs.toronto.edu/~florian/).
-My research focuses on 3D computer vision, generative models, and robotics.
-
-I am currently a research intern at [Meta Reality Labs](https://about.meta.com/realitylabs/), where I work on video generation models for egocentric videos under the mentorship of [Julian Straub](https://jstraub.github.io/).
-Previously, I completed a research internship in the same group at [Meta Reality Labs](https://about.meta.com/realitylabs/), focusing on egocentric 3D perception, mentored by [Zhaoyang Lv](https://lvzhaoyang.github.io/) and [Chris Sweeney](https://scholar.google.com/citations?user=h-CpQGgAAAAJ&hl=en).
+I am a final-year Ph.D. student in the at <span style="color:#1E3765;"><strong>University of Toronto</strong></span>, advised by Prof. [Florian Shkurti](http://www.cs.toronto.edu/~florian/).
+My research focuses on 3D computer vision, generative models, and robot learning. I'm particularly interested in building structured 3D world models that can be used for perception, reconstruction, and generation. 
 
 <p style="color:#e57373;"><span style="font-weight:bold;">Opportunities</span>: I will be graduating and seeking full-time research positions starting in Fall 2026. Please feel free to reach out if you see a potential fit.</p>
 
-I earned my Master’s degree in Robotics from Carnegie Mellon University, advised by Prof. [David Held](https://davheld.github.io/) and Prof. [Martial Hebert](http://www.cs.cmu.edu/~hebert/).
-Before that, I received my Bachelor’s degree from the Hong Kong University of Science and Technology, where I worked with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/bio-sketch-review.htm) and Prof. [Yu-Wing Tai](https://www.cse.ust.hk/admin/people/faculty/profile/yuwing).
-I also completed a research internship at [Tencent Youtu Lab](https://open.youtu.qq.com/#/open).
+I am currently a research intern at <span style="color:#76B900;"><strong>NVIDIA</strong></span>, working on incremental 3D scene reconstruction and video generation. 
+
+During my PhD, I completed two research internships in the Surreal team at <span style="color:#0081FB;"><strong>Meta Reality Labs</strong></span>. 
+First time I worked on 3D Gaussian reconstruction for egocentric perception, mentored by [Zhaoyang Lv](https://lvzhaoyang.github.io/) and [Chris Sweeney](https://scholar.google.com/citations?user=h-CpQGgAAAAJ&hl=en). Second time I worked on egocentric video generation models with 3D spatial memory and human motion controls, under the mentorship of [Julian Straub](https://jstraub.github.io/).
+
+I earned my Master’s degree in Robotics from <span style="color:#C41230;"><strong>CMU</strong></span>, advised by Prof. [David Held](https://davheld.github.io/) and Prof. [Martial Hebert](http://www.cs.cmu.edu/~hebert/).
+Before that, I received my Bachelor’s degree from <span style="color:#003366;"><strong>HKUST</strong></span>, where I worked with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/bio-sketch-review.htm) and Prof. [Yu-Wing Tai](https://www.cse.ust.hk/admin/people/faculty/profile/yuwing).
+I also completed a research internship at Tencent Youtu Lab.
 
 # Selected Publications
 
