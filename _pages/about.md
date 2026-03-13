@@ -7,19 +7,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a final-year Ph.D. student in the at <span style="color:#1E3765;"><strong>University of Toronto</strong></span>, advised by Prof. [Florian Shkurti](http://www.cs.toronto.edu/~florian/).
-My research focuses on 3D computer vision, generative models, and robot learning. I'm particularly interested in building structured 3D world models that can be used for perception, reconstruction, and generation. 
+I am a final-year Ph.D. student at <span style="color:#1E3765;"><strong>University of Toronto</strong></span>, advised by Prof. <a href="http://www.cs.toronto.edu/~florian/">Florian Shkurti</a>. 
+My research focuses on 3D computer vision, generative models, and robot learning. I am particularly interested in building structured 3D world models for perception, reconstruction, and generation. 
+
+I am currently a research intern at <span style="color:#76B900;"><strong>NVIDIA</strong></span>, where I work on incremental 3D scene reconstruction and video generation. 
 
 <p style="color:#e57373;"><span style="font-weight:bold;">Opportunities</span>: I will be graduating and seeking full-time research positions starting in Fall 2026. Please feel free to reach out if you see a potential fit.</p>
 
-I am currently a research intern at <span style="color:#76B900;"><strong>NVIDIA</strong></span>, working on incremental 3D scene reconstruction and video generation. 
+During my PhD, I completed two research internships with the Surreal team at <span style="color:#0081FB;"><strong>Meta Reality Labs</strong></span>. 
+During the first internship, I worked on 3D Gaussian reconstruction for egocentric perception, mentored by <a href="https://lvzhaoyang.github.io/">Zhaoyang Lv</a> and <a href="https://scholar.google.com/citations?user=h-CpQGgAAAAJ&hl=en">Chris Sweeney</a>. 
+During the second internship, I worked on egocentric video generation models with 3D spatial memory and human motion control, mentored by <a href="https://jstraub.github.io/">Julian Straub</a>.
 
-During my PhD, I completed two research internships in the Surreal team at <span style="color:#0081FB;"><strong>Meta Reality Labs</strong></span>. 
-First time I worked on 3D Gaussian reconstruction for egocentric perception, mentored by [Zhaoyang Lv](https://lvzhaoyang.github.io/) and [Chris Sweeney](https://scholar.google.com/citations?user=h-CpQGgAAAAJ&hl=en). Second time I worked on egocentric video generation models with 3D spatial memory and human motion controls, under the mentorship of [Julian Straub](https://jstraub.github.io/).
-
-I earned my Master’s degree in Robotics from <span style="color:#C41230;"><strong>CMU</strong></span>, advised by Prof. [David Held](https://davheld.github.io/) and Prof. [Martial Hebert](http://www.cs.cmu.edu/~hebert/).
-Before that, I received my Bachelor’s degree from <span style="color:#003366;"><strong>HKUST</strong></span>, where I worked with Prof. [Chi-Keung Tang](http://www.cs.ust.hk/~cktang/bio-sketch-review.htm) and Prof. [Yu-Wing Tai](https://www.cse.ust.hk/admin/people/faculty/profile/yuwing).
-I also completed a research internship at Tencent Youtu Lab.
+I earned my Master’s degree in Robotics from <span style="color:#C41230;"><strong>CMU</strong></span>, where I was advised by Prof. <a href="https://davheld.github.io/">David Held</a> and Prof. <a href="http://www.cs.cmu.edu/~hebert/">Martial Hebert</a>. 
+Before that, I received my Bachelor’s degree from <span style="color:#003366;"><strong>HKUST</strong></span>, where I worked with Prof. <a href="http://www.cs.ust.hk/~cktang/bio-sketch-review.htm">Chi-Keung Tang</a> and Prof. <a href="https://www.cse.ust.hk/admin/people/faculty/profile/yuwing">Yu-Wing Tai</a>.
+I also completed a research internship at <span style="color:#0052D9;"><strong>Tencent Youtu Lab</strong></span>.
 
 # Selected Publications
 
