@@ -9,14 +9,13 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 
-gem "github-pages", group: :jekyll_plugins
+gem "github-pages", "~> 232", group: :jekyll_plugins
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
 
-# Later version may cause a error 
-# See details here: https://github.com/academicpages/academicpages.github.io/issues/943
-gem "jekyll", "3.9.0"
+# Keep local builds aligned with the GitHub Pages dependency bundle.
+gem "jekyll", "3.10.0"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
@@ -25,5 +24,4 @@ group :jekyll_plugins do
   # gem "jekyll-archives"
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
-  gem 'hawkins'
 end
