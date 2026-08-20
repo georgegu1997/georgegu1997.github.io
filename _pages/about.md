@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 I am a final-year Ph.D. student at <span style="color:#1E3765;"><strong>University of Toronto</strong></span>, advised by Prof. <a href="http://www.cs.toronto.edu/~florian/">Florian Shkurti</a>. 
-My research focuses on 3D computer vision, generative models, and robot learning. I am particularly interested in building structured 3D world models for perception, reconstruction, and generation. 
+My research focuses on 3D computer vision, generative models, and robot learning. I am particularly interested in building structured world models for perception, reconstruction, and generation. 
 
 I am currently a research intern at <span style="color:#76B900;"><strong>NVIDIA</strong></span>, where I work on 3D world modeling for video and geometry. 
-
-<p style="color:#e57373;"><span style="font-weight:bold;">Opportunities</span>: I will be graduating and seeking full-time research positions starting in Fall 2026. Please feel free to reach out if you see a potential fit!</p>
 
 <!-- During my PhD, I completed two research internships with the Surreal team at <span style="color:#0081FB;"><strong>Meta Reality Labs</strong></span>. 
 In the first internship, I worked on 3D reconstruction and perception for egocentric videos, mentored by <a href="https://lvzhaoyang.github.io/">Zhaoyang Lv</a> and <a href="https://scholar.google.com/citations?user=h-CpQGgAAAAJ&hl=en">Chris Sweeney</a>. 
